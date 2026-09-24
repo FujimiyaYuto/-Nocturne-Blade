@@ -1,0 +1,16 @@
+{
+  "name": "夜想の魔剣 ─ Nocturne Blade",
+  "short_name": "夜想の魔剣",
+  "description": "スマホの縦画面・親指1本で遊べる魔法剣アクション",
+  "start_url": "./",
+  "scope": "./",
+  "display": "fullscreen",
+  "orientation": "portrait",
+  "background_color": "#05040d",
+  "theme_color": "#05040d",
+  "lang": "ja",
+  "icons": [
+    { "src": "icon-192.png", "sizes": "192x192", "type": "image/png", "purpose": "any" },
+    { "src": "icon-512.png", "sizes": "512x512", "type": "image/png", "purpose": "any" }
+  ]
+}
